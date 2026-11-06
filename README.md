@@ -1,5 +1,4 @@
-## Hi, I'm takeshi 👋
-
+## Hi, I'm takeshi 👋 Realizing neurodiversity.  
 Bridging the front lines and data.  
 To that end, I'm learning data science to tackle social and business issues.
 
